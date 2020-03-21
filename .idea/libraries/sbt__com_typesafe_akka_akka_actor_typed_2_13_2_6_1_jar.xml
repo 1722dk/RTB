@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="sbt: com.typesafe.akka:akka-actor-typed_2.13:2.6.1:jar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor-typed_2.13/2.6.1/akka-actor-typed_2.13-2.6.1.jar!/" />
+      <root url="jar://D:/Work/Projects/RTB/null/Coursier/cache/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor-typed_2.13/2.6.1/akka-actor-typed_2.13-2.6.1.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor-typed_2.13/2.6.1/akka-actor-typed_2.13-2.6.1-javadoc.jar!/" />
+      <root url="jar://D:/Work/Projects/RTB/null/Coursier/cache/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor-typed_2.13/2.6.1/akka-actor-typed_2.13-2.6.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor-typed_2.13/2.6.1/akka-actor-typed_2.13-2.6.1-sources.jar!/" />
+      <root url="jar://D:/Work/Projects/RTB/null/Coursier/cache/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor-typed_2.13/2.6.1/akka-actor-typed_2.13-2.6.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

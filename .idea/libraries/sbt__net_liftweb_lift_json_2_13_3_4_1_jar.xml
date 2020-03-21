@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="sbt: net.liftweb:lift-json_2.13:3.4.1:jar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo1.maven.org/maven2/net/liftweb/lift-json_2.13/3.4.1/lift-json_2.13-3.4.1.jar!/" />
+      <root url="jar://D:/Work/Projects/RTB/null/Coursier/cache/v1/https/repo1.maven.org/maven2/net/liftweb/lift-json_2.13/3.4.1/lift-json_2.13-3.4.1.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo1.maven.org/maven2/net/liftweb/lift-json_2.13/3.4.1/lift-json_2.13-3.4.1-javadoc.jar!/" />
+      <root url="jar://D:/Work/Projects/RTB/null/Coursier/cache/v1/https/repo1.maven.org/maven2/net/liftweb/lift-json_2.13/3.4.1/lift-json_2.13-3.4.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/repo1.maven.org/maven2/net/liftweb/lift-json_2.13/3.4.1/lift-json_2.13-3.4.1-sources.jar!/" />
+      <root url="jar://D:/Work/Projects/RTB/null/Coursier/cache/v1/https/repo1.maven.org/maven2/net/liftweb/lift-json_2.13/3.4.1/lift-json_2.13-3.4.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
