@@ -1,0 +1,5 @@
+# Ignoring folders and files
+.idea
+target
+project/target
+project/project/target
